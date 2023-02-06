@@ -1,0 +1,43 @@
+00h00-05h00: sleep
+05h00-05h30: wake up + prepare to go to HN
+05h30-05h45: breakfast
+05h45-06h00: go to my family restaurant
+06h00-07h45: go to HN
+07h45-08h15: relax
+08h15-08h30: prepare to work
+08h30-09h00: talk with team
+09h00-09h30: daily scrum
+09h30-10h00: record tasks
+10h00-11h30: check work - HaDT's import - create excel file
+11h30-11h45: reply customers - Sam + Adeel
+11h45-12h15: lunch
+12h15-13h15: relax - talk
+13h15-13h30: nap
+13h30-13h45: wake up
+13h45-14h00: manage tasks on Redmine - review
+14h00-14h15: check Manh's work - Dashboard + form validator
+14h15-14h30: check VinhNB's work - license DB
+14h30-15h00: discuss with BaNV - license - trial setup
+15h00-15h30: review work of TanCM's open database
+15h30-16h30: Kiddo #133: kids management - test CRUD
+16h30-17h00: freelance - discuss with potential customer - Zoran
+17h00-18h15: Kiddo #133: kids management - delete orphan kids
+18h15-19h00: Kiddo - write test case #119 - cases for adding new clazz from main menu	
+19h00-19h15: cook
+19h15-19h30: quick dinner (noodles)
+19h30-19h45: go to meet Tuan Anh and Quyet (A6)
+19h45-21h15: talk with Tuan Anh & Quyet
+21h15-21h30: cook
+21h30-21h45: bath
+21h45-22h00: cook
+22h00-22h15: dinner
+22h15-22h30: relax
+22h30-22h45: wash bowls
+22h45-23h30: record tasks + spending
+23h30-24h00: Freelance - bidding
+
+
+spending: 
+	fuel: 50k
+	lunch set (6): 150k
+	dinner: 20k
